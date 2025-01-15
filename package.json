@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "miscelleneous",
+=======
+  "name": "expressdir",
+>>>>>>> 335852ce28b99e1ca50dfb867a6e2d5a742ad130
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,8 +11,15 @@
   },
   "author": "Anamika",
   "license": "ISC",
+<<<<<<< HEAD
   "dependencies": {
     "i": "^0.3.7"
   },
   "description": ""
+=======
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+>>>>>>> main
 }
